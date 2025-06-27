@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects or Compiler Design Tools**
 
-- 💬 Ask me about **DSA, Aptitude, React.js, Vue.js**
+- 💬 Ask me about **DSA, Aptitude, Machine Learning
 
 - 📫 How to reach me **dhruvgahtori00@gmail.com**
 
