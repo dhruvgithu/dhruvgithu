@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvgithu" alt="dhruvgithu" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects or Compiler Design Tools**
+- 👯 I’m looking to collaborate on **Machine Learning Projects **
 
 - 💬 Ask me about DSA, Aptitude, Machine Learning
 
