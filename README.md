@@ -12,43 +12,32 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 What I'm Focused On
+- 🔍 Building **AI/ML based projects**
+- 📊 Improving **Data Structures & Algorithms**
+- 🌐 Learning **Full Stack Development**
+- ⚡ Exploring **Real-world problem solving**
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvgitu&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql,nodejs,vue,tensorflow,pytorch,opencv" />
 </p>
 
 ---
 
-## 🚀 Languages & Tools
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</p>
+## 💡 Featured Projects
+- 🧠 **AI Health Assistant** – Disease prediction using Machine Learning  
+- 🎓 **EduQuest Platform** – Online coding assessment system with proctoring  
+- 📊 **Data Analysis Projects** – Insights using Pandas & Python  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgitu&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgitu&show_icons=true&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgitu&theme=tokyonight"/>
-</p>
+## 🎯 Goals
+- 🚀 Get placed in a good tech company  
+- 🧠 Become strong in **Machine Learning & Problem Solving**  
+- 💼 Build impactful real-world projects  
 
 ---
 
