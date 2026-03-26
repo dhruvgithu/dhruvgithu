@@ -15,7 +15,6 @@
 ## 🚀 What I'm Focused On
 - 🔍 Building **AI/ML based projects**
 - 📊 Improving **Data Structures & Algorithms**
-- 🌐 Learning **Full Stack Development**
 - ⚡ Exploring **Real-world problem solving**
 
 ---
@@ -29,8 +28,7 @@
 
 ## 💡 Featured Projects
 - 🧠 **AI Health Assistant** – Disease prediction using Machine Learning  
-- 🎓 **EduQuest Platform** – Online coding assessment system with proctoring  
-- 📊 **Data Analysis Projects** – Insights using Pandas & Python  
+- 🚗 **ANPR System** – Automatic Number Plate Recognition using OpenCV & Deep Learning  
 
 ---
 
@@ -43,6 +41,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://linktr.ee/dhruvgahtori00" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Dhruv-green?style=for-the-badge&logo=linktree"/>
+  </a>
   <a href="mailto:dhruvgahtori00@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dhruv-red?style=for-the-badge&logo=gmail"/>
   </a>
