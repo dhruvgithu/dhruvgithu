@@ -8,7 +8,7 @@
 - 🤝 Looking to collaborate on **Machine Learning Projects**  
 - 💬 Ask me about **DSA, Aptitude, Machine Learning**  
 - 📫 Reach me at: **dhruvgahtori00@gmail.com**  
-- ⚡ Fun fact: *I debug more than I code 😄*
+
 
 ---
 
