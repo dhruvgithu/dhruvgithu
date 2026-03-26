@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
-<h3 align="center">A final-year Computer Science Student from Graphic Era Hill University Bhimtal</h3>
+<h3 align="center">A final-year Computer Science Student...</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dhruvgitu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
