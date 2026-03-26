@@ -25,11 +25,7 @@
 
 ---
 
-## 💡 Featured Projects
-- 🧠 **AI Health Assistant** – Disease prediction using Machine Learning  
-- 🚗 **ANPR System** – Automatic Number Plate Recognition using OpenCV & Deep Learning  
 
----
 
 ## 🎯 Goals
 - 🚀 Get placed in a good tech company  
