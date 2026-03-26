@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final Year CSE Student  
+- 🎓 B.Tech CSE Student  
 - 🤝 Looking to collaborate on **Machine Learning Projects**  
 - 💬 Ask me about **DSA, Aptitude, Machine Learning**  
 
