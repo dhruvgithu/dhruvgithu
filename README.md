@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
 <h3 align="center">A final-year Computer Science Student from Graphic Era Hill University Bhimtal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgithu&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgithu" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dhruvgitu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvgithu" alt="dhruvgithu" /></a> </p>
 
