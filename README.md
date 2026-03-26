@@ -7,7 +7,6 @@
 - 🎓 Final Year CSE Student  
 - 🤝 Looking to collaborate on **Machine Learning Projects**  
 - 💬 Ask me about **DSA, Aptitude, Machine Learning**  
-- 📫 Reach me at: **dhruvgahtori00@gmail.com**  
 
 
 ---
