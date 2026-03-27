@@ -4,9 +4,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech CSE Student
-- 🤝 Looking to collaborate on **Machine Learning Projects**
-- 💬 Ask me about **DSA, Aptitude, Machine Learning**
+- 🎓 B.Tech CSE Student  
+- 🤝 Looking to collaborate on **Machine Learning Projects**  
+- 💬 Ask me about **DSA, Aptitude, Machine Learning**  
 
 ---
 
@@ -24,24 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruvgithu" height="170"/>
-</p>
-
----
-
-
-
 ## 🎯 Goals
-- 🚀 Get placed in a good tech company
-- 🧠 Become strong in **Machine Learning & Problem Solving**
-- 💼 Build impactful real-world projects
+- 🚀 Get placed in a good tech company  
+- 🧠 Become strong in **Machine Learning & Problem Solving**  
+- 💼 Build impactful real-world projects  
 
 ---
 
