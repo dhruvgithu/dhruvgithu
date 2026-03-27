@@ -27,9 +27,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=dhruvgithu&theme=tokyonight" height="180" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=default" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhruvgithu&theme=default" height="170"/>
 </p>
 
 ---
