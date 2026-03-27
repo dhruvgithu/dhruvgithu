@@ -46,4 +46,19 @@
 
 ---
 
+## 🔗 Profiles
+<p align="center">
+  <a href="mailto:dhruvgahtori00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhruvgahtori00%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linktr.ee/dhruvgahtori00">
+    <img src="https://img.shields.io/badge/Linktree-Visit-green?style=for-the-badge&logo=linktree" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Gahtori-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
 ⭐ *Thanks for visiting my profile!*
