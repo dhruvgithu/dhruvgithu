@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
-<h3 align="center">Final-year Computer Science Student </h3>
+<h3 align="center">Final-year Computer Science Student</h3>
 
 ---
 
@@ -24,15 +24,15 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgithu&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgithu&theme=tokyonight" />
-</p>
+---
 
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&theme=tokyo-night" />
 </p>
