@@ -46,24 +46,21 @@
 
 ---
 
-## 🔗 Profiles
-<p align="center">
-  <a href="mailto:dhruvgahtori00@gmail.com" style="text-decoration:none; margin: 0 15px;">
-    <p align="center">Email</p>
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/>
-  </a>
+## 🔗 Connect & Profiles
 
-  <a href="https://linktr.ee/dhruvgahtori00" style="text-decoration:none; margin: 0 15px;">
-    <p align="center">Linktree</p>
-    <img src="https://img.icons8.com/color/48/linktree.png" height="40"/>
+<p align="left">
+  <a href="mailto:dhruvgahtori00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/" style="text-decoration:none; margin: 0 15px;">
-    <p align="center">LinkedIn</p>
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40"/>
+  <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/dhruvgahtori00">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
+---
 ---
 
 ⭐ *Thanks for visiting my profile!*
