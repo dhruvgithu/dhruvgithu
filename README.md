@@ -48,9 +48,15 @@
 
 ## 🔗 Profiles
 <p align="center">
-  <a href="mailto:dhruvgahtori00@gmail.com">Email</a> •
-  <a href="https://linktr.ee/dhruvgahtori00">Linktree</a> •
-  <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/">LinkedIn</a>
+  <a href="mailto:dhruvgahtori00@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/>
+  </a>
+  <a href="https://linktr.ee/dhruvgahtori00">
+    <img src="https://img.icons8.com/color/48/linktree.png" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40"/>
+  </a>
 </p>
 
 ---
