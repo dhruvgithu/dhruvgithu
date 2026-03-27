@@ -27,11 +27,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvgithu&theme=default" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=dhruvgithu" height="170"/>
 </p>
 
 ---
