@@ -8,7 +8,6 @@
 - 🤝 Looking to collaborate on **Machine Learning Projects**  
 - 💬 Ask me about **DSA, Aptitude, Machine Learning**  
 
-
 ---
 
 ## 🚀 What I'm Focused On
@@ -25,24 +24,25 @@
 
 ---
 
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgitu&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgitu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgitu&theme=tokyo-night" />
+</p>
+
+---
 
 ## 🎯 Goals
 - 🚀 Get placed in a good tech company  
 - 🧠 Become strong in **Machine Learning & Problem Solving**  
 - 💼 Build impactful real-world projects  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linktr.ee/dhruvgahtori00" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-Dhruv-green?style=for-the-badge&logo=linktree"/>
-  </a>
-  <a href="mailto:dhruvgahtori00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dhruv-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
 
 ---
 
