@@ -45,6 +45,12 @@
 
 ---
 
+## 🧠 How I Think & Build
+
+"Play the long game — real success is a Test match, not a T20; every ball is a new chance, whether in cricket or in life."
+
+---
+
 ## 🔗 Connect & Profiles
 <p align="left">
 <a href="mailto:dhruvgahtori00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
