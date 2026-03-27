@@ -26,15 +26,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=dhruvgithu&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=dhruvgithu&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&theme=tokyo-night" />
 </p>
 
 ---
