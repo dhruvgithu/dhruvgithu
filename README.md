@@ -34,11 +34,14 @@
 ---
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
+  &nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgithu&theme=tokyonight" height="180" alt="Streak" />
 </p>
 
+---
 ---
 
 ## 🎯 Goals
