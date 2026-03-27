@@ -26,15 +26,15 @@
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgitu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgithu&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgitu&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgithu&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgitu&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&theme=tokyo-night" />
 </p>
 
 ---
