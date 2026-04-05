@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 What I'm Focused On
-- 🔍 Building **AI/ML based projects**
+- 🔍 Building **ML based projects**
 - 📊 Improving **Data Structures & Algorithms**
 - ⚡ Exploring **Real-world problem solving**
 
