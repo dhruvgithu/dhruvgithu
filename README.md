@@ -83,5 +83,6 @@
 </p>
 
 ---
-
-<p align="center">⭐ <i>Thanks for visiting my profile!</i></p>
+<p align="center">
+  ✨ <b>Thanks for visiting my profile!</b> ✨
+</p>
