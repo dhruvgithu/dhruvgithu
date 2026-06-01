@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
 <h3 align="center">A passionate Computer Science Engineer from Graphic Era Hill University</h3>
-<img width="245" height="180" alt="image" src="https://github.com/user-attachments/assets/933f94f0-d942-4d79-81a3-2d4036c43598" />
+
 
 
 ---
 
 ## 👨‍💻 About Me
+        <img width="245" height="180" alt="image" src="https://github.com/user-attachments/assets/2f71be5b-1c60-4de4-849b-22bf970deef1" />
+
 - 🎓 Computer Science Graduate from Graphic Era Hill University
 - 💬 Ask me about **DSA, AI, Machine Learning**
 - 📫 How to reach me dhruvgahtori00@gmail.com
