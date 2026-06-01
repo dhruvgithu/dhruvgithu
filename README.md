@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
-<h3 align="center">A passionate Computer Science Engineer from Graphic Era Hill University</h3>
+<h3 align="center">A passionate Computer Science Graduate from Graphic Era Hill University</h3>
 
 
 
