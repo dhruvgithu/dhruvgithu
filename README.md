@@ -69,7 +69,7 @@
 ## 🧠 How I Think & Build
 
 <p align="center">
-  <b><i>"The only time you truly fail is when you decide to give up."</i></b>
+  <b><i>"The only time you truly fail, is when you decide to give up."</i></b>
 </p>
 
 
