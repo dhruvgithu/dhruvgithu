@@ -66,7 +66,9 @@
 
 ## 🧠 How I Think & Build
 
-"The only time you truly fail is when you decide to give up."
+<p align="center">
+  <b><i>"The only time you truly fail is when you decide to give up."</i></b>
+</p>
 
 
 ## 🔗 Connect & Profiles
