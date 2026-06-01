@@ -2,17 +2,16 @@
   <img src="https://github.com/user-attachments/assets/601259e3-338c-41f8-b767-3c2d4639b362" alt="Banner" />
 </p>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 <p align="center">
-<img width="245" height="180" alt="Image" src="https://github.com/user-attachments/assets/163edf3e-417a-4c53-bef2-7ae7f73c718d" />
+  <img src="https://github.com/user-attachments/assets/163edf3e-417a-4c53-bef2-7ae7f73c718d" width="220" />
 </p>
 
 - 🎓 Computer Science Graduate from Graphic Era Hill University
 - 💬 Ask me about **DSA, AI, Machine Learning**
-- 📫 How to reach me dhruvgahtori00@gmail.com
-- 📝Sometimes I write articles on https://medium.com/@dhruvgahtori00
-
+- 📫 How to reach me **dhruvgahtori00@gmail.com**
+- 📝 Sometimes I write articles on **Medium**
 
 ---
 
