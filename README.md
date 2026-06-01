@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv Gahtori</h1>
-<h3 align="center">A passionate Computer Science Graduate from Graphic Era Hill University</h3>
+<h1 align="center"><img width="1935" height="813" alt="Image" src="https://github.com/user-attachments/assets/31a9c2ea-a47e-4e21-83be-c150ee235548" /></h1>
+
 
 ## 👨‍💻 About Me
 
