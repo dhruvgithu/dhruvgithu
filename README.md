@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-                https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif
+                              <img width="245" height="180" alt="Developer" src="https://github.com/user-attachments/assets/8828f612-6fdf-43d6-b4b5-969d3de09dfe" />
 
 
 - 🎓 Computer Science Graduate from Graphic Era Hill University
