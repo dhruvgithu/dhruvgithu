@@ -6,7 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-        <img width="245" height="180" alt="image" src="https://github.com/user-attachments/assets/2f71be5b-1c60-4de4-849b-22bf970deef1" />
+     <img width="245" height="180" alt="image" src="https://github.com/user-attachments/assets/cc704324-14fc-4b61-add1-2f0a904325cd" />
+
 
 - 🎓 Computer Science Graduate from Graphic Era Hill University
 - 💬 Ask me about **DSA, AI, Machine Learning**
