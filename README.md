@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/601259e3-338c-41f8-b767-3c2d4639b362" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/601259e3-338c-41f8-b767-3c2d4639b362" alt="Banner" width="100%" />
 </p>
 
 <h2>👨‍💻 About Me</h2>
