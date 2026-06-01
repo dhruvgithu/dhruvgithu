@@ -6,6 +6,8 @@
   ✦ <strong>Creating Technology That Makes an Impact</strong> ✦
 </h3>
 
+---
+
 <h2>👨‍💻 About Me</h2>
 
 <p align="center">
