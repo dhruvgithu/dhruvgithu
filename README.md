@@ -1,4 +1,4 @@
-<h1 align="center"><img width="1935" height="813" alt="Image" src="https://github.com/user-attachments/assets/31a9c2ea-a47e-4e21-83be-c150ee235548" /></h1>
+<h1 align="center"><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ca981cf3-e3bc-46e3-906e-4331d31a836f" /></h1>
 
 
 ## 👨‍💻 About Me
