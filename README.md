@@ -21,23 +21,29 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  
-**Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,javascript&theme=dark" />
+<h3 align="center">Languages</h3>
 
-**Backend & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,javascript&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" />
+<h3 align="center">Backend & Frameworks</h3>
 
-**Databases & Messaging**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
+<h3 align="center">Databases & Messaging</h3>
 
-**Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,visualstudio,github&theme=dark" />
+<h3 align="center">Tools & Platforms</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,visualstudio,github&theme=dark" />
 </p>
 
 ---
