@@ -71,10 +71,13 @@
 ---
 
 ## 🔗 Connect & Profiles
+
 <p align="left">
 <a href="mailto:dhruvgahtori00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@dhruvgahtori00"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linktr.ee/dhruvgahtori00"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
