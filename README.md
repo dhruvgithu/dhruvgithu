@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science Graduate
 - 🤝 Looking to collaborate on **Machine Learning Projects**
-- 💬 Ask me about **DSA, Aptitude, Machine Learning**
+- 💬 Ask me about **DSA, AI, Machine Learning**
 
 ---
 
@@ -37,11 +37,6 @@
 </p>
 
 ---
-
-## 🎯 Goals
-- 🚀 Get placed in a good tech company
-- 🧠 Become strong in **Machine Learning & Problem Solving**
-- 💼 Build impactful real-world projects
 
 ---
 
