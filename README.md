@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Engineer%20•%20Open%20to%20Work&descAlignY=62&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:ec4899&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20Graduate&descAlignY=62&descSize=20&animation=fadeIn" />
+</p>
+
+<p align="center">
+  ✦ <b>Creating Technology That Makes an Impact</b> ✦
 </p>
 
 <h2>👨‍💻 About Me</h2>
