@@ -66,7 +66,7 @@
 
 ## 🧠 How I Think & Build
 
-"Play the long game — real success is a test match, and every ball is a new chance, whether it's cricket or life."
+Play the long game — success is a test match, and every ball is a new opportunity to learn, adapt, and grow.
 
 ---
 
