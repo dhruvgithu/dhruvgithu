@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-                      <img width="245" height="180" alt="Developer" src="https://github.com/user-attachments/assets/bd2aaaad-7a35-4960-a818-c77ce628d746" />
+                      https://github.com/dhruvgithu/dhruvgithu/blob/main/Developer.gif?raw=true
 
 
 
