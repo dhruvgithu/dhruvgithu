@@ -66,9 +66,8 @@
 
 ## 🧠 How I Think & Build
 
-Play the long game — success is a test match, and every ball is a new opportunity to learn, adapt, and grow.
+"The only time you truly fail is when you decide to give up."
 
----
 
 ## 🔗 Connect & Profiles
 
