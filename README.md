@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/601259e3-338c-41f8-b767-3c2d4639b362" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Engineer%20•%20Open%20to%20Work&descAlignY=62&descSize=18&animation=fadeIn" />
 </p>
 
 <h2>👨‍💻 About Me</h2>
