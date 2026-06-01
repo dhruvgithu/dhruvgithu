@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-                    <img width="245" height="180" alt="Developer" src="https://github.com/user-attachments/assets/dfbdcc42-081c-4aa7-82ba-531718f387ae" />
+                    <img width="245" height="180" alt="Image" src="https://github.com/user-attachments/assets/6c9c40fc-f7cf-4aa2-8c75-d512ca97811c" />
 
 
 
