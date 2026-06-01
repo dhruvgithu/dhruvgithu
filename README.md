@@ -17,7 +17,23 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql,nodejs,vue,tensorflow,pytorch,opencv" />
+  
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,javascript&theme=dark" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,visualstudio,github&theme=dark" />
+
 </p>
 
 ---
