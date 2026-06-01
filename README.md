@@ -15,7 +15,7 @@
 - 🎓 Computer Science Graduate from Graphic Era Hill University
 - 💬 Ask me about **DSA, AI, Machine Learning**
 - 📫 How to reach me **dhruvgahtori00@gmail.com**
-- 📝 Sometimes I write articles on **Medium**
+- 📝 Sometimes I write articles on https://medium.com/@dhruvgahtori00
 
 ---
 
