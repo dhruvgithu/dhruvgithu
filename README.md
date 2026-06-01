@@ -4,16 +4,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Graduate
-- 🤝 Looking to collaborate on **Machine Learning Projects**
+- 🎓 Computer Science Graduate from Graphic Era Hill University
 - 💬 Ask me about **DSA, AI, Machine Learning**
+- 📫 How to reach me dhruvgahtori00@gmail.com
+- 📝Sometimes I write articles on https://medium.com/@dhruvgahtori00
 
----
-
-## 🚀 What I'm Focused On
-- 🔍 Building **ML based projects**
-- 📊 Improving **Data Structures & Algorithms**
-- ⚡ Exploring **Real-world problem solving**
 
 ---
 
