@@ -8,11 +8,11 @@
   <img src="https://github.com/user-attachments/assets/163edf3e-417a-4c53-bef2-7ae7f73c718d" width="220" />
 </p>
 
-- 🎓 Computer Science Graduate from Graphic Era Hill University
-- 💬 Currently exploring **DSA, AI, Machine Learning**
-- 🤝 Open to collaborate on projects, reach out!
-- 📫 How to reach me **dhruvgahtori00@gmail.com**
-- 📝 Sometimes I write articles on https://medium.com/@dhruvgahtori00
+🎓 Computer Science Graduate from Graphic Era Hill University  
+💡 Passionate about Software Development, AI/ML, and Problem Solving  
+🤝 Open to collaborating on exciting projects and innovative ideas  
+📫 Reach me at: **dhruvgahtori00@gmail.com**  
+📝 Read my articles on **[Medium](https://medium.com/@dhruvgahtori00)**
  
 
 ---
