@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=900&lines=Creating+Technology+That+Makes+an+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Creating+Technology+That+Makes+an+Impact" />
 </p>
 
 ---
