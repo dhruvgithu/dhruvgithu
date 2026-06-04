@@ -84,12 +84,15 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-gahtori-8b7b56285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dhruvgithu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@dhruvgahtori00"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linktr.ee/dhruvgahtori00"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
+
 <p align="center">
   ✨ <b>Thanks for visiting my profile!</b> ✨
 </p>
