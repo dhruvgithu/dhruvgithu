@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:ec4899&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20Graduate&descAlignY=62&descSize=20&animation=fadeIn" />
+  <img src="https://github.com/user-attachments/assets/f178c054-b65e-4473-8f30-5ed896cd4e9b" alt="Dhruv Gahtori Banner" width="100%" />
 </p>
 
-<p align="center">
-  ⚡
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Creating+Technology+That+Makes+an+Impact" />
-  ⚡
-</p>
 
 ---
 
