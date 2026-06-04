@@ -10,7 +10,7 @@
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<h2>👨‍💻 A bit About Me</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/163edf3e-417a-4c53-bef2-7ae7f73c718d" width="220" />
