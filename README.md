@@ -70,6 +70,8 @@
   <strong><em> "The only time you truly fail is when you decide to give up."</em></strong>
 </h3>
 
+---
+
 
 ## 🔗 Connect & Profiles
 
