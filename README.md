@@ -1,8 +1,10 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:ec4899&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20Graduate&descAlignY=62&descSize=20&animation=fadeIn" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:ec4899&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20Graduate&descAlignY=62&descSize=20&animation=fadeIn" />
+</p>
 
-<h2 align="center">
-  <strong>✦ Creating Technology That Makes an Impact ✦</strong>
-</h2>
+<h3 align="center">
+  ✦ <strong>Creating Technology That Makes an Impact</strong> ✦
+</h3>
 
 ---
 
