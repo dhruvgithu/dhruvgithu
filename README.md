@@ -9,9 +9,11 @@
 </p>
 
 - 🎓 Computer Science Graduate from Graphic Era Hill University
-- 💬 Ask me about **DSA, AI, Machine Learning**
+- 💬 Currently exploring **DSA, AI, Machine Learning**
+- 🤝 Open to collaborate on projects, reach out!
 - 📫 How to reach me **dhruvgahtori00@gmail.com**
 - 📝 Sometimes I write articles on https://medium.com/@dhruvgahtori00
+ 
 
 ---
 
