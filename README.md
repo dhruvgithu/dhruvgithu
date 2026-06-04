@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:ec4899&height=180&section=header&text=Dhruv%20Gahtori&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20Graduate&descAlignY=62&descSize=20&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-  ✦ <strong>Creating Technology That Makes an Impact</strong> ✦
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=900&lines=Creating+Technology+That+Makes+an+Impact" />
+</p>
 
 ---
 
