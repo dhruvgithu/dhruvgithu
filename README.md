@@ -17,7 +17,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ My favourite tools and technologies 
 
 <table>
   <tr>
