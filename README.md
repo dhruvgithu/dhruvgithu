@@ -158,7 +158,7 @@
 
 
 
-## 🧠 How I Think & Build
+## 🧠 Mindset
 
 <h3 align="center">
   <strong><em> "The only time you truly fail is when you decide to give up."</em></strong>
