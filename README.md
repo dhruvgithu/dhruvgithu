@@ -156,8 +156,6 @@
 
 ---
 
-
-
 ## 💭 Perspective
 
 <h3 align="center">
