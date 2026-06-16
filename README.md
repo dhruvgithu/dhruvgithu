@@ -146,11 +146,11 @@
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=dhruvgithu&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888" />
+<img width="75%" src="https://streak-stats.demolab.com?user=dhruvgithu&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&area=true&hide_border=true" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&area=true&hide_border=true" />
 
 </div>
 
