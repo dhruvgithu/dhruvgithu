@@ -11,7 +11,7 @@
 🎓 Computer Science Graduate from Graphic Era Hill University  
 💡 Passionate about Software Development, AI/ML, and Problem Solving  
 🤝 Open to collaborating on exciting projects and innovative ideas  
-📫 Reach me at: **dhruvgahtori00@gmail.com**  
+📫 Drop a line: **dhruvgahtori00@gmail.com**  
 📝 Read my articles on **[Medium](https://medium.com/@dhruvgahtori00)**
  
 
