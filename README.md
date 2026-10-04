@@ -152,14 +152,6 @@
     alt="GitHub Streak"
   />
 
-  <br><br>
-
-  <img
-    width="75%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgithu&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-
 </div>
 
 ---
